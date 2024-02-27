@@ -1,4 +1,3 @@
-# Linear-Regression-on-House-Prices
 # Predicting House Prices with Linear Regression
 
 ## Overview
